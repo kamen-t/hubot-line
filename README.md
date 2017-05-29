@@ -1,6 +1,7 @@
 # hubot-line-example
 
 This is an example code for [hubot-line](https://github.com/umakoz/hubot-line).
+test
 
 ## Setup on Heroku
 
