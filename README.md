@@ -2,6 +2,7 @@
 
 This is an example code for [hubot-line](https://github.com/umakoz/hubot-line).
 test
+test
 
 ## Setup on Heroku
 
